@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1eacb723-49fa-419d-ae22-2ce48c22b61c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="D:\Development\Tools\apache-maven-3.6.1\conf\settings-person.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1mXaMKWHm7GV4e280XscP5C2HAD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager">
+    <configuration name="App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="Kafka-SpringP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.logic.homework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.logic.homework.App" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1eacb723-49fa-419d-ae22-2ce48c22b61c" name="Default Changelist" comment="" />
+      <created>1609642339355</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609642339355</updated>
+      <workItem from="1609642343512" duration="2067000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1492" height="265" key="GridCell.Tab.0.bottom" timestamp="1609643811187">
+      <screen x="0" y="1440" width="1536" height="834" />
+    </state>
+    <state width="1492" height="265" key="GridCell.Tab.0.bottom/0.0.1728.1122/0.1440.1536.834@0.1440.1536.834" timestamp="1609643811187" />
+    <state width="1492" height="265" key="GridCell.Tab.0.center" timestamp="1609643811186">
+      <screen x="0" y="1440" width="1536" height="834" />
+    </state>
+    <state width="1492" height="265" key="GridCell.Tab.0.center/0.0.1728.1122/0.1440.1536.834@0.1440.1536.834" timestamp="1609643811186" />
+    <state width="1492" height="265" key="GridCell.Tab.0.left" timestamp="1609643811186">
+      <screen x="0" y="1440" width="1536" height="834" />
+    </state>
+    <state width="1492" height="265" key="GridCell.Tab.0.left/0.0.1728.1122/0.1440.1536.834@0.1440.1536.834" timestamp="1609643811186" />
+    <state width="1492" height="265" key="GridCell.Tab.0.right" timestamp="1609643811187">
+      <screen x="0" y="1440" width="1536" height="834" />
+    </state>
+    <state width="1492" height="265" key="GridCell.Tab.0.right/0.0.1728.1122/0.1440.1536.834@0.1440.1536.834" timestamp="1609643811187" />
+    <state width="1492" height="214" key="GridCell.Tab.1.bottom" timestamp="1609643810978">
+      <screen x="0" y="1440" width="1536" height="834" />
+    </state>
+    <state width="1492" height="214" key="GridCell.Tab.1.bottom/0.0.1728.1122/0.1440.1536.834@0.1440.1536.834" timestamp="1609643810978" />
+    <state width="1492" height="214" key="GridCell.Tab.1.center" timestamp="1609643810978">
+      <screen x="0" y="1440" width="1536" height="834" />
+    </state>
+    <state width="1492" height="214" key="GridCell.Tab.1.center/0.0.1728.1122/0.1440.1536.834@0.1440.1536.834" timestamp="1609643810978" />
+    <state width="1492" height="214" key="GridCell.Tab.1.left" timestamp="1609643810978">
+      <screen x="0" y="1440" width="1536" height="834" />
+    </state>
+    <state width="1492" height="214" key="GridCell.Tab.1.left/0.0.1728.1122/0.1440.1536.834@0.1440.1536.834" timestamp="1609643810978" />
+    <state width="1492" height="214" key="GridCell.Tab.1.right" timestamp="1609643810978">
+      <screen x="0" y="1440" width="1536" height="834" />
+    </state>
+    <state width="1492" height="214" key="GridCell.Tab.1.right/0.0.1728.1122/0.1440.1536.834@0.1440.1536.834" timestamp="1609643810978" />
+    <state x="272" y="1503" key="SettingsEditor" timestamp="1609642606205">
+      <screen x="0" y="1440" width="1536" height="834" />
+    </state>
+    <state x="272" y="1503" key="SettingsEditor/0.0.1728.1122/0.1440.1536.834@0.1440.1536.834" timestamp="1609642606205" />
+    <state x="425" y="909" key="run.anything.popup" timestamp="1609643558990">
+      <screen x="0" y="0" width="1728" height="1122" />
+    </state>
+    <state x="425" y="909" key="run.anything.popup/0.0.1728.1122/0.1440.1536.834@0.1440.1536.834" timestamp="1609643558990" />
+  </component>
+</project>
